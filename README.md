@@ -1,5 +1,5 @@
 # Movie Review Prediction
-My Coursera Project on 'Movie Review Prediction' using ML with Python
+Project on 'Movie Review Prediction' using ML with Python
 --------------------------------------------------------------------
 
 The scope of this project is to determine the sentiment of a reviewer based on the review that he/she has given. The 'Movie Review Prediction' model has been designed by using Logistic Regression. The feature extraction is done using TF-IDF (Term Frequency - Inverse Document Frequency) vectorizer. This project can be easily implemented in various situations. One can add features as and when required.
